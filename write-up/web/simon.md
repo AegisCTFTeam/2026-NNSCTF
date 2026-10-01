@@ -1,3 +1,5 @@
+- solved by @Yanamachi
+
 1. NNS{We_W15H_Y0U_4_Ple4s4Nt_f1igHt_W17h_nNs_41R}
     
 2. 부적절한 인가
