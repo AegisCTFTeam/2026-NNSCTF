@@ -1,2 +1,3 @@
-- solved by @lawence
-- FLAG: NNS{ch1r4l1ty_fl1ps_th3_b1ts}
+- solved by @lawence3713
+
+FLAG: NNS{ch1r4l1ty_fl1ps_th3_b1ts}
