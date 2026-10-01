@@ -1,9 +1,14 @@
 # Self-service — DevSecOops / LDAP (101 solves)
 - solved by @cooku222
+
 **문제:** Self-service
+
 **카테고리:** DevSecOops / ldap
+
 **점수:** 82
+
 **주어진 계정:** `ereid:Summer2026`
+
 **접속 방법:**
 ```
 ssh -o ProxyCommand='openssl s_client -quiet -connect %h:%p' ereid@HOST -p 1337
