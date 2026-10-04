@@ -6,6 +6,7 @@
 URL 규칙은 일관적으로 `/cf<세션>/d/<h|c>/<msg_idx>/<row><col>.css`의 형태를 띄고 있다. 이 규칙으로부터 대화 참여자와 대화 내역을 복원할 수 있다.
 
 ![images](../../image/Min-beste-minn-2.png)
+
 pcap에는 
 ```
 HEAD /cf1787417395/d/h/0/06.css HTTP/1.1
