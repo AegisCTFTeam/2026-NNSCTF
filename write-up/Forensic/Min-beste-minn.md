@@ -4,6 +4,7 @@
 전체 트래픽은 `static.notion-static.com`으로 위장한 `198.51.100.42:80`과의 HTTP 통신이다. 
 
 URL 규칙은 일관적으로 `/cf<세션>/d/<h|c>/<msg_idx>/<row><col>.css`의 형태를 띄고 있다. 이 규칙으로부터 대화 참여자와 대화 내역을 복원할 수 있다.
+
 ![images](../../image/Min-beste-minn-2.png)
 pcap에는 
 ```
