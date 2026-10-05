@@ -104,5 +104,5 @@ arpspoof와 tcpdump 종료 후
 tcpdump -r /tmp/capture.pcap -A | grep -B5 -A 40 "200 OK"
 ```
 해당 명령어로 플래그를 획득할 수 있다.
-
+![image](../../image/hiding-in-your-wifi.png)
 - Flag: NNS{switCH3d_N37woRk5_sti11_7Rust_4Rp_s0_keeP_Y0uR_d3viCe5_seP4Ra7e}
